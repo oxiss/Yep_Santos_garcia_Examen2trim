@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yep</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="titulo">Yep!</string>
+    <string name="subtitulo">Do I Know You?</string>
+    <string name="subtitulo_login">Login</string>
+    <string name="haveaccount">Have an account? SIGN UP there</string>
+    <string name="loginbtn">Login</string>
+</resources>

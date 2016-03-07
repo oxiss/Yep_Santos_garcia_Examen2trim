@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.santosgarcia.yep.MainActivity">
+
+    <item
+        android:id="@+id/img_personalizA"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/a"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/img_personalizB"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/b"
+        app:showAsAction="always" />
+
+</menu>
